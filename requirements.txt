@@ -1,12 +1,9 @@
 ﻿streamlit
+spacy
 pandas
-numpy
-scikit-learn
 matplotlib
 seaborn
-nltk
-spacy
-pypdf
+scikit-learn
+numpy
+PyPDF2
 python-docx
-joblib
-reportlab
