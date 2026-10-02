@@ -36,7 +36,9 @@ AI Career Twin is an AI-powered career guidance system that analyzes resumes, ex
 ## 🌐 Live Demo
 
 Streamlit App:
-[AI Career Twin](YOUR_STREAMLIT_APP_LINK)
+[AI Career Twin]## 🌐 Live Demo
+
+[AI Career Twin – Live App](https://ai-career-twin-pzztnh8d3wu26pzhpfyqpj.streamlit.app/)
 
 ## 📂 Project Structure
 
@@ -57,4 +59,4 @@ To build an AI-powered system that analyzes resumes, predicts suitable career ro
 
 ## 🌐 Live Demo
 
-[AI Career Twin - Live App](https://ai-career-twin-pzztnh8d3wu26pzhpfyqpj.streamlit.app/)
+[AI Career Twin – Live App](https://ai-career-twin-pzztnh8d3wu26pzhpfyqpj.streamlit.app/)
