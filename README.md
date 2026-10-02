@@ -54,3 +54,8 @@ AI-Career-Twin/
 ## 🎯 Purpose
 
 To build an AI-powered system that analyzes resumes, predicts suitable career roles, identifies skill gaps, matches job opportunities, and provides personalized career roadmaps.
+
+## 🌐 Live Demo
+
+[AI Career Twin – Live App]
+(https://ai-career-twin-pzztnh8d3wu26pzhpfyqpj.streamlit.app/)
